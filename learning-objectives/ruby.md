@@ -37,3 +37,5 @@
 - Know that an instance variable has a name beginning with **@**, and its scope is confined to whatever object self refers to
 
 - Can write and use **blocks** where appropriate
+
+See more at the curriculum starting at [Week 3 Day 1](https://www.learnacademy.org/days/165) for a week and ending new input at [Week 3 Day 5](https://www.learnacademy.org/days/168)

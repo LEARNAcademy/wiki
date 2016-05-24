@@ -23,3 +23,5 @@
 - Know the difference between **divs** and **spans** and when to use them
 
 - Know how to have a **href** attribute link to **id**
+
+See more at the curriculum for [Week 1 Day 2](https://www.learnacademy.org/days/156) & [Week 1 Day 3](https://www.learnacademy.org/days/159)

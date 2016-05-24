@@ -13,3 +13,5 @@
 - Create classes in HTML and apply styling to those classes using CSS
 
 - Know how to access Bootstrap's pre-existing styles by download or CDN
+
+See more at the curriculum for [Week 1 Day 2](https://www.learnacademy.org/days/156), [Week 1 Day 4](https://www.learnacademy.org/days/158) & [Week 1 Day 5](https://www.learnacademy.org/days/195)

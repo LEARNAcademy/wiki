@@ -29,3 +29,5 @@
 - know what **Textatular** does and how it is used to perform text searches in Postgres
 
 - know what **Rubocop** does and how it is used to enforce many of the guidelines outlined in the community Ruby Style Guide
+
+See more at the curriculum for [Week 9 Day 1](https://www.learnacademy.org/days/153), [Week 9 Day 2](https://www.learnacademy.org/days/151), [Week 9 Day 3](https://www.learnacademy.org/days/152) & [Week 9 Day 4](https://www.learnacademy.org/days/154)

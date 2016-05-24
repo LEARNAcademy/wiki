@@ -41,3 +41,5 @@
 - Know how to create a database connected to a Ruby application with full testing
 
 - Understand **Rake** as a build tool
+
+See more at the curriculum for [Week 6 Day 1](https://www.learnacademy.org/days/186), [Week 6 Day 2](https://www.learnacademy.org/days/185) & [Week 6 Day 3](https://www.learnacademy.org/days/187)

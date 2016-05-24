@@ -15,3 +15,5 @@
 - to be able to start to work collaboratively using **Github**
 
 - to have an understanding of how to use **Git Pull Request** workflow
+
+See more at the curriculum starting at [Week 1 Day 1](https://www.learnacademy.org/days/157) & [Week 10 Day 1](https://www.learnacademy.org/days/179)

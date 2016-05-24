@@ -50,3 +50,5 @@ using JQuery
 - Know some methods for traversing down the DOM: **.children(), .eq(1)**
 
 - Create **event-listeners** with associated functions to have websites respond to user behavior
+
+See more at the curriculum starting at [Week 2 Day 1](https://www.learnacademy.org/days/143) for a week and ending new input at [Week 3 Day 1](https://www.learnacademy.org/days/164)
