@@ -59,7 +59,7 @@ Companies offering apprenticeships for Q3 students:
 
 Companies offering apprenticeships for 2016A students:
 
-- [Notch8](http://www.notch8.com/){:target="_blank"}:  Ruby on Rails Web Development Agency
+- [Notch8](http://www.notch8.com/ target="_blank"):  Ruby on Rails Web Development Agency
 
 - [Portfolium](https://portfolium.com/){:target="_blank"}:  E-Portfolio solutions
 
