@@ -24,3 +24,7 @@ Here are some of our favorites, and please suggest some of your own too...
 - [Saguaro's](http://www.saguarosmexicanfood.com/)
 
 - [Mama's Bakery](http://mamasbakery.net/menu/)
+
+- [Luche Libre](http://www.tacosmackdown.com/)
+
+- [Hammond's Gormet Ice Cream](http://www.hammondsgourmet.com/)

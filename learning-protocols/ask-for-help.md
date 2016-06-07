@@ -1,18 +1,17 @@
 **Ask For Help**
-
 -----------
 
 During class, you will inevitably need to ask for help from time to time, be it from instructors or your fellow classmates. We use the "Ask For Help" Protocol
 
 **The Ask For Help** protocol allows you to efficiently make use of the skills and knowledge of others. Ask For Help is the act that catalyzes connection and shared vision. Use it continuously, before and during the pursuit of any result.
 
-# Steps
+#### Steps
 
 - Asker inquires of another, “[Helper’s name], will you X?”
 - Asker expresses any specifics or restrictions of the request.
 - Helper responds by saying “Yes” or “No” or by offering an alternative form of help.
 
-# Commitments
+#### Commitments
 
 - Always invoke the Ask For Help Protocol with the phrase “Will you . . .
 - Have a clear understanding of what you want from the Helper or if you do not have a clear understanding of what help you want, signal this by saying “I’m not sure what I need help with, but will you help me?”
@@ -25,7 +24,7 @@ During class, you will inevitably need to ask for help from time to time, be it 
 - Request more information if you are unclear about the specifics of the help request.
 - Do not apologize for asking for help.
 
-# Other thoughts
+#### Other thoughts
 
 - Asking for help is a low-cost undertaking. The worst possible outcome is a “No,” which leaves you no further ahead or behind than when you asked. In the best possible outcome, you reduce the amount of time required to achieve a task and/or learn.
 - Helpers should say “No” if they are not sure if they want to help. They should say nothing else after turning down a request for help.

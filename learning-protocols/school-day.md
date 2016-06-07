@@ -1,10 +1,9 @@
 **The School Day**
-
 ----------------
 
 Class time will be 9:15am to 5pm, Monday through Friday. The space is open from 8.30am and there is generally someone around after class ends at 5:00pm if you wanted to spend time working on your projects.
 We'll have standup review at 9:15 sharp every morning, so allow yourself the time you need to be ready at LEARN by that time.
-You can generally park on the street on the two or three blocks away from the LEARN classroom without too much trouble. There are many sections of the neighborhood that have 2-hour parking, so just be aware of that. In fact, the west side of Ray St, south of North Park Way, has 2-hour zones, whereas the east side is all-day parking.
+You can generally park on the street two or three blocks away from the LEARN classroom without too much trouble. There are many sections of the neighborhood that have 2-hour parking, so just be aware of that. In fact, the west side of Ray St, south of North Park Way, has 2-hour zones, whereas the east side is all-day parking.
 
 Here's an example of a Typical Day at LEARN Academy
 

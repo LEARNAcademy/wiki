@@ -17,6 +17,6 @@ If you ever post about us on Twitter, remember to tag us with either @sdlearn or
 
 - [Github](http://www.github.com/LEARNAcademy)
 
-- [LEARN academy](http://www.learnacademy.org)
+- [LEARN Academy](http://www.learnacademy.org)
 
 - [Contact Us](mailto:hello@learnacademy.org)
