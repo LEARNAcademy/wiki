@@ -29,8 +29,7 @@ It would also be useful for you to learn basic unix command line tools. You don'
 
 ## Try Ruby
 
-[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)  
-Note: There is also a "Ruby Bits Part 2". Do not do that (unless you really want a challenge).
+[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
 
 If you've already done both of these courses, there's no harm in doing them again. Review the slides. Is there something you think you understand but might not? Google that. Dig deep into these basics so that you can hit the ground running on Day 1.
 

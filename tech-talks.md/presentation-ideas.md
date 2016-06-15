@@ -21,8 +21,8 @@ Another student read an article on how a company called [**FreeVolt**](http://ww
 ---------------------
 
 Some students were inspired to talk about areas covered in the curriculum.
-These students saw the tech talk as an opportunity to dig deeper in subjects that they either want to know more about or felt they needed to spend more time on to feel like that understood it better.
-They spoke about how to work collaboratively on **Github**, gave an introduction to technologies such as **Node.js** and **Sass**, highlighted some useful and important **Ruby Gems** and Technologies in the Workplace.
+These students saw the tech talk as an opportunity to dig deeper in subjects that they either wanted to know more about or felt they needed to spend more time with to feel like they had a clearer understanding.
+Some spoke about how to work collaboratively on **Github**, gave an introduction to technologies such as **Node.js** and **Sass**, highlighted some useful and important **Ruby Gems** and Technologies in the Workplace.
 
 **Passion Projects**
 
