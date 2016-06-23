@@ -29,6 +29,6 @@ Rob Kaufman and Matt Clark have been using Rails for longer than anyone here, ru
 
 Lisa has always been a people person. Before joining the LEARN academy team, she got her Phd in Linguistics and ran off to Paris for 2 years to do research and eat baguettes. Now she is back where her passion lies, connecting LEARN academy and all its students to the community around it. Throughout the course, Lisa will organize events and community outreach opportunities. She is also in charge of the internships, reaching out to companies, setting up interviews, and ultimately finding each student the best match possible.  Don’t hesitate to reach out if you have ideas or input on anything you see her working on! Lisa is also the voice of LEARN academy through social media - so feel free to send her things to post!
 
-## Career Services Coordinator: Hillary Whitmore
+## Student Affairs Coordinator: Hillary Whitmore
 
 Hillary is a San Diego native and professional development enthusiast. After graduating from SDSU with a degree in political science, Hillary moved to Seattle and helped to recruit an army of canvassers raising hundreds of thousands of dollars for political non-profits. Since then, Hillary has been carefully expanding her network all over the country so that LEARN graduates can tap into supportive communities across the United States. She is passionate about working with people and helping others to exceed in their professional lives.

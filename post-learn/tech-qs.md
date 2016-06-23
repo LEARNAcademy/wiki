@@ -4,6 +4,56 @@
 
 A technical interview is maybe the most stressful part of the job-hunting process. Coding is hard enough on your own or with a pair, but now you're going to be asked to solve coding and pseudo-coding problems in front of potential employers. The key is to practice before the real thing, so you're not too nervous when you're in the real thing.
 
+- Explain how (almost) everything is an object in Ruby [Useful link](http://rubylearning.com/blog/2010/09/27/almost-everything-is-an-object-and-everything-is-almost-an-object/)
+
+- What is a class? [Useful link](http://www.tutorialspoint.com/ruby/ruby_classes.htm)
+
+- What is the difference between a class and a module? [Useful link](http://stackoverflow.com/questions/151505/difference-between-a-class-and-a-module)
+
+- What is an object? [Useful link](http://www.tutorialspoint.com/ruby/ruby_classes.htm)
+
+- What is a variable? [Useful link](http://www.tutorialspoint.com/ruby/ruby_variables.htm)
+
+- What is a function? [Useful link](http://www.tutorialspoint.com/ruby/ruby_methods.htm)
+
+- What is a hash? [Useful link](http://ruby-doc.org/core-2.2.0/Hash.html)
+
+- What is an an array? [Useful link](http://www.tutorialspoint.com/ruby/ruby_arrays.htm)
+
+- What is a migration? [Useful link](http://guides.rubyonrails.org/v3.2.8/migrations.html)
+
+- What is a router? [Useful link](http://searchnetworking.techtarget.com/definition/router)
+
+- What does it mean that a class inherits from another class? [Useful link](http://rubylearning.com/satishtalim/ruby_inheritance.html)
+
+- What is a Web browser? [Useful link](http://www.webopedia.com/TERM/B/browser.html)
+
+- What is a request? [Useful link](http://rve.org.uk/dumprequest)
+
+- What is a server? [Useful link](http://www.webopedia.com/TERM/W/Web_server.html)
+
+- What is the "path", and why is it important? [Useful link](http://guides.rubyonrails.org/v2.3.11/routing.html)
+
+- What is a response (in terms of the Web)? [Useful link](https://en.wikipedia.org/wiki/Request%E2%80%93response)
+
+- What is the "front-end"? [Useful link](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
+
+- What is an "event" (within the context of a webpage)? [Useful link](https://www.w3.org/wiki/Handling_events_with_JavaScript)
+
+- What is an example of a CSS property? [Useful link](http://www.w3schools.com/cssref/)
+
+- How does Rails work? [Useful link](http://theartandscienceofruby.com/2015/08/25/how-does-rails-work/)
+
+- How and when would you declare a Global Variable? [Useful link](http://www.rubyist.net/~slagell/ruby/globalvars.html)
+
+- How would you create getter and setter methods in Ruby? [Useful link](http://railsapps.github.io/what-is-ruby-rails.html)
+
+- Describe the difference between class and instance variables? [Useful link](http://railsapps.github.io/what-is-ruby-rails.html)
+
+- Explain some of the looping structures available in Ruby? [Useful link](http://railsapps.github.io/what-is-ruby-rails.html)
+
+- Explain the difference between a has_one and belongs_to association [Useful link](http://railsapps.github.io/what-is-ruby-rails.html)
+
 - What is Rails and why use it? [Useful link](http://railsapps.github.io/what-is-ruby-rails.html)
 
 - Name every database association relationship. [Useful link](http://www.techrepublic.com/article/relational-databases-defining-relationships-between-database-tables/)
@@ -19,10 +69,6 @@ A technical interview is maybe the most stressful part of the job-hunting proces
 - What is Git and why would you use it? [Useful link](http://nvie.com/posts/a-successful-git-branching-model/) | [Useful link](http://www.makeuseof.com/tag/git-version-control-youre-developer/)
 
 - What happens when a user logs into a website? [Useful link](http://codecr.am/blog/post/6/)
-
-- What is a class? [Useful link](http://www.tutorialspoint.com/ruby/ruby_classes.htm)
-
-- What is an object? [Useful link](http://www.tutorialspoint.com/ruby/ruby_classes.htm)
 
 - What is a module? Hows it differ from a class? [Useful link](http://stackoverflow.com/questions/151505/difference-between-a-class-and-a-module)
 
