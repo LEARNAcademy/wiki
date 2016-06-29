@@ -84,3 +84,19 @@ Companies offering apprenticeships for 2016A students:
 - [Source Intelligence](http://www.sourceintelligence.com/):  Works with companies to better identify what is in their supply chain.
 
 - [Zesty](http://zesty.io):  An enterprise website platform.
+
+Companies offering apprenticeships for 2016B students:
+
+- [Notch8](http://www.notch8.com/):  Ruby on Rails Web Development Agency
+
+- [Ceatus Media Group](http://www.ceatus.com/):  Digital Marketing Strategy
+
+- [BandsInTown](http://news.bandsintown.com/home):  Digital Business and Brand Development
+
+- [Throtl](https://www.throtl.com/):  Buying and selling cars and parts made easy
+
+- [Vicorice](http://victorise.com/):  The Race Companion For Smartphones and Wearables
+
+- [Mingle](http://www.minglellc.com/):  Helping professionals manage their online personal and professional brands
+
+- [HoursLogger](https://hourslogger.com/website):  Time Tracking and Billing solutions

@@ -84,3 +84,9 @@ During the 2016a class...
 - [Testing Models](http://everydayrails.com/2012/03/19/testing-series-rspec-models-factory-girl.html) Using RSpec to test model functionality
 
 - [CORs](https://vimeo.com/154380053) CORs: What it means and how it works
+
+During the 2016B class...
+
+
+- [Winning combination of steps to uninstall then reinstall postgreSQL] (http://hzchirs-blog.logdown.com/posts/142678-how-completely-uninstall-postgresql-9x-on-mac-osx) |  
+(https://www.codefellows.org/blog/three-battle-tested-ways-to-install-postgresql)
