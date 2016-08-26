@@ -1,4 +1,4 @@
-COPY bookings (bookid, facid, memid, starttime, slots) FROM stdin;
+COPY bookings (id, facility_id, member_id, start_time, slots) FROM stdin;
 0	3	1	2012-07-03 11:00:00	2
 1	4	1	2012-07-03 08:00:00	2
 2	6	0	2012-07-03 18:00:00	2
@@ -4046,7 +4046,7 @@ COPY bookings (bookid, facid, memid, starttime, slots) FROM stdin;
 
 
 
-COPY facilities (facid, name, membercost, guestcost, initialoutlay, monthlymaintenance) FROM stdin;
+COPY facilities (id, name, member_cost, guest_cost, initial_out_lay, monthly_maintenance) FROM stdin;
 0	Tennis Court 1	5	25	10000	200
 1	Tennis Court 2	5	25	8000	200
 2	Badminton Court	0	15.5	4000	50
@@ -4060,7 +4060,7 @@ COPY facilities (facid, name, membercost, guestcost, initialoutlay, monthlymaint
 
 
 
-COPY members (memid, surname, firstname, address, zipcode, telephone, recommendedby, joindate) FROM stdin;
+COPY members (id, surname, first_name, address, zipcode, telephone, recommended_by, joindate) FROM stdin;
 0	GUEST	GUEST	GUEST	0	(000) 000-0000	\N	2012-07-01 00:00:00
 1	Smith	Darren	8 Bloomsbury Close, Boston	4321	555-555-5555	\N	2012-07-02 12:02:05
 2	Smith	Tracy	8 Bloomsbury Close, New York	4321	555-555-5555	\N	2012-07-02 12:08:23
