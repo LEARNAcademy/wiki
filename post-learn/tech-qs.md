@@ -4,6 +4,12 @@
 
 A technical interview is maybe the most stressful part of the job-hunting process. Coding is hard enough on your own or with a pair, but now you're going to be asked to solve coding and pseudo-coding problems in front of potential employers. The key is to practice before the real thing, so you're not too nervous when you're in the real thing.
 
+- What are some of the differences between HTML and HTML5? [Useful link](http://www.differencebtw.com/difference-between-html-and-html5/)
+
+- What is “Semantic HTML”? [Useful link](http://webdesign.about.com/od/htmltags/a/why-semantic-html.htm)
+
+- What is floating in CSS? [Useful link](https://css-tricks.com/all-about-floats/)
+
 - Explain how (almost) everything is an object in Ruby [Useful link](http://rubylearning.com/blog/2010/09/27/almost-everything-is-an-object-and-everything-is-almost-an-object/)
 
 - What is a class? [Useful link](http://www.tutorialspoint.com/ruby/ruby_classes.htm)
