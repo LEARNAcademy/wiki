@@ -98,3 +98,25 @@ Companies offering apprenticeships for 2016B students:
 - [Mingle](http://www.minglellc.com/):  Helping professionals manage their online personal and professional brands
 
 - [HoursLogger](https://hourslogger.com/website):  Time Tracking and Billing solutions
+
+Companies offering apprenticeships for 2016C students:
+
+- [Notch8](http://www.notch8.com/):  Ruby on Rails Web Development Agency
+
+- [Ceatus Media Group](http://www.ceatus.com/):  Digital Marketing Strategy
+
+- [Victorise](http://victorise.com/):  A race companion designed by competitive cyclists
+
+- [Whooo's Reading](https://www.whooosreading.org/whooos_reading):  A reading comprehension tool that helps elementary and middle school teachers teach common-core aligned skills to their students
+
+- [ThoughtStem](http://www.thoughtstem.com/home):  Teaching local San Diego students computer science and develops e-learning software used in its own in-person offerings and by educators around the world
+
+- [HoursLogger](https://hourslogger.com/website):  Time Tracking and Billing solutions
+
+- [Zeeto](http://zeeto.io/):  Registration marketing and lead generation
+
+- [VelocityGrowth](http://www.velocitygrowth.com/):  Creating custom enterprise chat bots
+
+- [CodeCorps](https://codecorps.org/):  Helping people donate time or money to open source software projects for social good.
+
+- [Portfolium](https://portfolium.com/):  E-Portfolio solutions
