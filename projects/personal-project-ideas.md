@@ -8,6 +8,8 @@ Sometimes it is difficult to come up with ideas for projects to test out your sk
 
 #### Park Finder app
 
+**Executive Summary**
+
 A website that will search the area in a selected radius around your location and send back a list of Public Parks with the facilities.
 
 **Roles**:
@@ -22,6 +24,8 @@ Registered User
 
 #### Pair Picker app
 
+**Executive Summary**
+
 An app which could be used by LEARN for future cohorts.  The idea would be to streamline the pair picking process, creating new unique random pairs each day, based on those students in attendance.  While this would be a specific application for a specific purpose, we also could see it being used by other coding boot camps and/or businesses who would like to implement pair programming.
 
 **Roles**:
@@ -29,33 +33,35 @@ Student: register their info with avatar
 Class lead: roll call, create listing of random pairs given the history of random pairs, clear all students, clear single student, clear history (in case of issues), enter non-functional pairs (two people not to be paired), reset pairing when all combinations have been used.
 
 **Stories**:
-As an internet user, I can go to landing page so that I can get a compelling experience of what the website is all about.
-As a student, I can register based on my email address, so I can be paired.
-As a student, I can register with my Facebook account, so I can be paired.
-As a logged in student, I can change my personal information.
-As a logged in student, I can delete myself from the system.
-As a logged in student, I can see my pairing history.
-As a logged in student, I can see the history of all the random pairs I have created.
+- As an internet user, I can go to landing page so that I can get a compelling experience of what the website is all about.
+- As a student, I can register based on my email address, so I can be paired.
+- As a student, I can register with my Facebook account, so I can be paired.
+- As a logged in student, I can change my personal information.
+- As a logged in student, I can delete myself from the system.
+- As a logged in student, I can see my pairing history.
+- As a logged in student, I can see the history of all the random pairs I have created.
 
 
-As an admin, I can make a class lead have the class lead role.
-As an admin, I can remove a student from the system, so that they don’t participate in the pairings.
-As an admin, I can remove a class lead from the system, so that they can’t create random pairings.
+- As an admin, I can make a class lead have the class lead role.
+- As an admin, I can remove a student from the system, so that they don’t participate in the pairings.
+- As an admin, I can remove a class lead from the system, so that they can’t create random pairings.
 
-As a class lead, I can register as a class lead, so that I can make random pairings.
-As a class lead, I can see all the students that have registered and mark them present or not, so that they participate in the random pairing or not.
-As a class lead, I can make random pairs!
-As a class lead, I can see the history of all the random pairs I have created.
-As a class lead, I can have x amount of days worth of random pairs.
-As a class lead, I can students eligible for participating in a pairing.
-As a class lead, I can enter not allowed pairs, such that people that should not be paired, will not be paired.
-As a class lead, I can mark students in attendance to allow student to participate in the pairing
+- As a class lead, I can register as a class lead, so that I can make random pairings.
+- As a class lead, I can see all the students that have registered and mark them present or not, so that they participate in the random pairing or not.
+- As a class lead, I can make random pairs!
+- As a class lead, I can see the history of all the random pairs I have created.
+- As a class lead, I can have x amount of days worth of random pairs.
+- As a class lead, I can students eligible for participating in a pairing.
+- As a class lead, I can enter not allowed pairs, such that people that should not be paired, will not be paired.
+- As a class lead, I can mark students in attendance to allow student to participate in the pairing
 
-As a registered user I can check-in to participate in current (today) pairings.
-As a class lead, I can see attendance based on days
-As a class lead, I can “reset” at some point, after all potential pairs have been exhausted.
+- As a registered user I can check-in to participate in current (today) pairings.
+- As a class lead, I can see attendance based on days
+- As a class lead, I can “reset” at some point, after all potential pairs have been exhausted.
 
 #### Consumable
+
+**Executive Summary**
 
 This app will allow people to rate restaurants that they have eaten at so that they can keep tabs on places and dishes they did or did not like.
 
@@ -65,17 +71,19 @@ Followers: Follows like-minded foodies and can comment on their experiences at t
 
 **Stories**:
 
-As a foodie, I can go to a landing page so that I can get a compelling experience of what the website is all about so that  ___.
-As a foodie, I can go to a landing page to see where I can sign up to create a profile so that  ___.
-As a signed up foodie, I am taken to a profile page after signing up so that  ___.
-As a signed up foodie, I can create and save a review for a restaurant so that  ___.
-As a signed up foodie, I can access previous reviews so that  ___.
-As a signed up foodie, I can search my reviews by cuisine, rating, price and occasion so that  ___.
-As a signed up foodie, I can create a wishlist of restaurants I would like to visit in the future so that  ___.
-As a signed up foodie, I can search my wishlist by cuisine and occasion so that I can get exactly what I am in the mood for.
-As a signed up foodie, I can post my reviews on social media so that  ___.
+- As a foodie, I can go to a landing page so that I can get a compelling experience of what the website is all about so that  ___.
+- As a foodie, I can go to a landing page to see where I can sign up to create a profile so that  ___.
+- As a signed up foodie, I am taken to a profile page after signing up so that  ___.
+- As a signed up foodie, I can create and save a review for a restaurant so that  ___.
+- As a signed up foodie, I can access previous reviews so that  ___.
+- As a signed up foodie, I can search my reviews by cuisine, rating, price and occasion so that  ___.
+- As a signed up foodie, I can create a wishlist of restaurants I would like to visit in the future so that  ___.
+- As a signed up foodie, I can search my wishlist by cuisine and occasion so that I can get exactly what I am in the mood for.
+- As a signed up foodie, I can post my reviews on social media so that  ___.
 
 #### Sports Team Matcher
+
+**Executive Summary**
 
 We connect people interested in playing sports with teams looking for players. Team managers can publish information about teams and event to attract players.
 
@@ -85,14 +93,39 @@ Team Manager: Runs a team and publishes information about team.
 
 **Stories**:
 
-As a player, I can go to a landing page so that I can get a compelling experience of what the website is all about so that  ___.
-As a team manager, I can create a profile for my club so that  ___.
-As a team manager, I can create a listing for a need for a team. The listing should include which sport, the age requirements, the location, price, ability level and practice/game times so that I fill my team.
-As a potential player, I can go to the site so that I can find a team to play for.
-As a player, I can see the most recent listings submitted by team managers so that  ___.
-As a player, I can follow teams and sports genre so that  ___.
-As a player, I am able to respond to a listing made by a team manager so that  ___.
-As team manager, I can remove the listing when the need has been fulfilled so that  ___.
+- As a player, I can go to a landing page so that I can get a compelling experience of what the website is all about so that  ___.
+- As a team manager, I can create a profile for my club so that  ___.
+- As a team manager, I can create a listing for a need for a team. The listing should include which sport, the age requirements, the location, price, ability level and practice/game times so that I fill my team.
+- As a potential player, I can go to the site so that I can find a team to play for.
+- As a player, I can see the most recent listings submitted by team managers so that  ___.
+- As a player, I can follow teams and sports genre so that  ___.- As a player, I am able to respond to a listing made by a team manager so that  ___.
+- As team manager, I can remove the listing when the need has been fulfilled so that  ___.
+
+#### Borrow-A-Dog
+
+**Executive Summary**
+
+No dog never needs to be alone.
+Dog Owners can register and set up a profile for themselves and their dog, with a calendar that lists the days and times they would like someone to hang out with their dog. The profile describes dog's temperament, favorite things to do, favorite snacks etc. The profile includes pictures and location on a map.
+Dog Borrows can also register and set up profiles. After registering, Dog Borrowers can search for dogs based on location and available time, and can book appointments to borrow a dog.
+Owners can leave reviews about dog borrowers, and dog borrowers can leave reviews about owners and dogs.
+
+**Roles**:
+Owner: Owner of one or more dogs willing to lend them out
+Dog Borrower: interested in having a dog part-time
+
+**Stories**:
+
+- As an owner, I can register and create a personal profile, so that I can later profile my dog.
+- As an owner, I can profile my dog, so that others can find it to borrow.
+- As a Dog Borrower, I can register and create a personal profile, so that owners can read about me.
+- As an owner, I can make a dog available at certain times, so that borrowers can search based on their schedule.
+- As a Dog Borrower, I can search for dogs close to a given location, so that I can borrow dogs close to me.
+- As a Dog Borrower I can search for dogs based on schedule, so that I can borrowed dogs that are available when I am.
+- As a Dog Borrower, I can schedule to borrow a dog, so that I have the dog for that time and no one else.
+- As an owner, I can have to approve a loan of a dog before the booking is complete, so that my dogs only go with people I approve.
+- As an owner, I can see the history of a dogger before allowing them to borrow a dog, so that I have some indication that they are legit.
+
 
 #### Hair Stylist app
 
