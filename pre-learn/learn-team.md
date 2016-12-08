@@ -16,9 +16,10 @@ Allan is your main guide through the next 4 months. He’s there to answer any q
 
 ## Instructors: Paul Hutchinson, Adam Thayer & Kaitlin Abrahamson
 
-You already know Paul - he’s introduced himself over email, so you know he went through a code bootcamp, and you’ve hopefully all scheduled your first meeting with him to hear that British accent in person!  Along with assisting you during lessons, exercises, and projects, Paul will meet with each of you once a week to discuss your progress in the course and any issues that come up.
+Paul as well as the Student Affairs Coordinator. He graduated from a similar web development bootcamp in Omaha and has twelve years training and experience in education in his native United Kingdom. Paul will meet with each of you once a week to discuss your progress in the course and any issues that come up.
 
 Adam is also a recent bootcamp graduate, in fact he was a star student in LEARN academy’s second class! Adam was a technical writer before deciding to switch careers, and he spent his internship working with the LEARN academy team to update and perfect our curriculum. Now as an instructor, he will continue to be in charge of curriculum development. He should be your go to if you have any feedback on the course itself OR if you’re looking for a surfing buddy!
+
 Kaitlin is a LEARN graduate returning to the team to spread the Rails gospel after spending some time in the San Diego start-up industry.  She is thrilled to be back in the classroom, having taught college students Shakespeare and Beowulf before making her career switch to web development.  She will happily talk your ear off about ActiveRecord, why database design is important, Bon Jovi, or, if you're a video gaming sort of person, all things Tomb Raider.
 
 ## Co-Founders and Technical Consultants: Rob Kaufman and Matt Clark
@@ -32,3 +33,7 @@ Lisa has always been a people person. Before joining the LEARN academy team, she
 ## Student Affairs Coordinator: Hillary Whitmore
 
 Hillary is a San Diego native and professional development enthusiast. After graduating from SDSU with a degree in political science, Hillary moved to Seattle and helped to recruit an army of canvassers raising hundreds of thousands of dollars for political non-profits. Since then, Hillary has been carefully expanding her network all over the country so that LEARN graduates can tap into supportive communities across the United States. She is passionate about working with people and helping others to exceed in their professional lives.
+
+## Interim Career Services Coordinator: Will Opperman
+
+Originally hailing from the small upstate New York Community of Ithaca, Will makes his way to San Diego by way of Philadelphia. Will graduated from Saint Joseph's University and spent close to five years working for nonprofits and higher education all around the country where helped with their organization, fundraising, and development. Most recently, Will was an Associate Director of Development and Alumni Relations at Drexel University in Philadelphia. In this role, Will worked to develop connections for the alumni at a personal and professional level. A recent addition to the team, he is excited to hit the ground running with LEARN and help current students and alumni achieve professional success.
