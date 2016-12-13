@@ -120,3 +120,14 @@ Companies offering apprenticeships for 2016C students:
 - [CodeCorps](https://codecorps.org/):  Helping people donate time or money to open source software projects for social good.
 
 - [Portfolium](https://portfolium.com/):  E-Portfolio solutions
+
+Companies offering apprenticeships for 2016D students:
+
+- [Notch8](http://www.notch8.com/):  Ruby on Rails Web Development Agency
+
+- [Ceatus Media Group](http://www.ceatus.com/):  Digital Marketing Strategy
+
+- [LocalStack](https://www.localstack.com/san-diego-ca):  Allowing users to dziscover trending local businesses
+through the power of social media
+
+- [CourseKey](http://www.thoughtstem.com/home):  Creating a smart classroom by leveraging student devices

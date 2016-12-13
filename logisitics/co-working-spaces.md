@@ -7,6 +7,6 @@ Here some that are very close to Learn...
 
 - [Co-Merge](http://www.co-merge.com/) (Downtown)
 
-- [Union](http://unioncowork.com/) (Two spaces in North Park)
+- [Union](http://unioncowork.com/) (Two spaces in North Park and of course in East Village)
 
 - [3rd Space](http://3rdspace.co/) (University Heights)

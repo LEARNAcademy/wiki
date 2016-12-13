@@ -6,7 +6,9 @@ The weekend starts at **5pm** on **Friday**. We learn the basics of **HTML** unt
 
 **5:00pm** - Welcome & Dinner
 
-**5:30pm** - Introduction to HTML: Set Up Basic Page, Tables, Nested Lists, Tags, Linking and Images
+**5:30pm** - How We Work at LEARN: Pair programming, What To Expect
+
+**5:45pm** - Introduction to HTML: Set Up Basic Page, Tables, Nested Lists, Tags, Linking and Images
 
 **8:30pm** - Wrap Up and Review
 
@@ -22,13 +24,11 @@ We start bright and early on Saturday morning at 9am. We cover a lot of ground: 
 
 **1:00pm** - Introduction to Bootstrap: divs, Grid Model, Jumbotron, Carrousel & Menu
 
-**5:15pm** - Show & Tell and Wrap Up
+**5:15pm** - Dinner
 
-**6:00pm** - Dinner and Ray At Night starts
+**6:00pm** - Show & Tell and Wrap Up
 
 **7:00pm** - Class Ends
-
-You are welcome to hang out and enjoy [Ray At Night](http://www.rayatnight.com/), the monthly North Park Artwalk event that happens every second Saturday evening from 6pm to 10pm. There will be artist's exhibitions, vendors, food trucks and live music.
 
 **Sunday at JumpStart**
 
