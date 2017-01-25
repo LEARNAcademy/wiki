@@ -134,3 +134,19 @@ Companies offering apprenticeships for 2016D students:
 - [CourseKey](http://www.thecoursekey.com):  Gives both students and professors the opportunity to engage within the classroom through the hardware devices they bring with them to class
 
 - [LocalStack](https://www.localstack.com/san-diego-ca):  Social media recommended places to eat, shopping, places to stay, things to do in San Diego
+
+Companies offering apprenticeships for 2016E students:
+
+- [Q-Centrix](http://www.q-centrix.com/):   Healthcare Quality Improvement Services
+
+- [Notch8](http://www.notch8.com/):  Ruby on Rails Web Development Agency
+
+- [ThoughtStem](http://www.thoughtstem.com/home):  Teaching local San Diego students computer science and develops e-learning software used in its own in-person offerings and by educators around the world
+
+- [Victorise](http://victorise.com/):  A race companion designed by competitive cyclists
+
+- [Scientist.com](https://www.scientist.com/):  Outsource everything but the genius
+
+- [Stampr](https://www.stam.pr/):  A suite of products that make it possible to handle all your shipping and fulfillment needs
+
+- [ScoutRed](https://scoutred.com/): Organizing and tracking testing samples online
