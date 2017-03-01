@@ -4060,7 +4060,7 @@ COPY facilities (id, name, member_cost, guest_cost, initial_out_lay, monthly_mai
 
 
 
-COPY members (id, surname, first_name, address, zipcode, telephone, recommended_by, joindate) FROM stdin;
+COPY members (id, surname, first_name, address, zipcode, telephone, recommended_by, join_date) FROM stdin;
 0	GUEST	GUEST	GUEST	0	(000) 000-0000	\N	2012-07-01 00:00:00
 1	Smith	Darren	8 Bloomsbury Close, Boston	4321	555-555-5555	\N	2012-07-02 12:02:05
 2	Smith	Tracy	8 Bloomsbury Close, New York	4321	555-555-5555	\N	2012-07-02 12:08:23
